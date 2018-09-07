@@ -6,4 +6,4 @@ Etapas:
 2 - Abra no logisim
 3 - Para funcionar ligue o pulso de clock e acione a memória principal
 
-<i>Qualquer dúvida, por favor, fale comigo</i>
+<small><i>Qualquer dúvida, por favor, fale comigo</i></small>
